@@ -16,7 +16,7 @@ namespace Olimpiadas.AdministradorGeneral
 	{
 		protected override void OnStartup(StartupEventArgs e)
 		{
-			Prueba.Probar();
+			
 		}
 	}
 }
