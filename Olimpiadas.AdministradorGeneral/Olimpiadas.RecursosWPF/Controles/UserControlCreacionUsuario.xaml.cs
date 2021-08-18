@@ -12,20 +12,17 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using Olimpiadas.Core;
 
-namespace Olimpiadas.AdministradorGeneral
+namespace Olimpiadas.RecursosWPF
 {
 	/// <summary>
-	/// Interaction logic for MainWindow.xaml
+	/// Lógica de interacción para UserControlCreacionUsuario.xaml
 	/// </summary>
-	public partial class MainWindow : Window
+	public partial class UserControlCreacionUsuario : UserControl
 	{
-		public MainWindow()
+		public UserControlCreacionUsuario()
 		{
 			InitializeComponent();
-
-			DataContext = new ViewModelCreacionDeUsuario();
 		}
 	}
 }
