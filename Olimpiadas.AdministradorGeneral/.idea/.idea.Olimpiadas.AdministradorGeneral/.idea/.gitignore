@@ -1,0 +1,11 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Olimpiadas.AdministradorGeneral.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Documents\ProgrammingCsharp\Grupo1-Olimpiadas\Olimpiadas.AdministradorGeneral\.idea\.idea.Olimpiadas.AdministradorGeneral\.idea/dataSources/
+/dataSources.local.xml
